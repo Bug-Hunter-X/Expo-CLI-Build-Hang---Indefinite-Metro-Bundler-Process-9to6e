@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an unusual error during the build process where the bundler would hang indefinitely without providing any specific error messages.  The project built fine on my local machine, but failed on CI/CD. The logs only showed that the metro bundler was running and never completed.
